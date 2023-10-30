@@ -12,5 +12,5 @@ Solver for discrete Mixed Observable Markov Decision Processes (MOMDPs).  MOMDPs
 Please create the pyMOMDP conda environment running the following commands
 
 ```
-conda env create --file pyMOMDP.yml
+pip install -r requirements.txt
 ```
